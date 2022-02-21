@@ -1,7 +1,0 @@
-[
-    {"farge":"crimson", "r":"10px", "x":"10px", "height":"10px", "width":"20px"},
-    {"farge":"deeppink", "r":"20px", "x":"50px", "height":"20px", "width":"40px"},
-    {"farge":"hotpink", "r":"30px", "x":"110px", "height":"30px", "width":"60px"},
-    {"farge":"lightpink", "r":"40px", "x":"190px", "height":"40px", "width":"80px"},
-    {"farge":"pink", "r":"50px", "x":"290px", "height":"50px", "width":"100px"}
-]
